@@ -1,4 +1,6 @@
-# progress-tracker
+# CS Journey — Cloud Architecture Track
+**Started:** March 27, 2026  
+**Current:** Week 2
 
 Week 1
 
