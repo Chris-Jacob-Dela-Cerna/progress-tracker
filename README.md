@@ -87,8 +87,13 @@ April 8, 2026:
 
 April 9, 2026:
 - worked on a master challenge combining all Week 0-2 concepts.
-- spent 4 hours on that challenge and 33% done.
+- spent 4 hours on that challenge and 45% done.
 - discovered .isalpha, .isdigit, .isalnum
 
+Week 3
+
 April 10, 2026
-- spent 2 hours more on that challenge and 50% done.
+- spent 2 hours more on that challenge and 63% done.
+
+April 11, 2026
+- spent 3 hours more on that challenge and 91% done.
