@@ -92,8 +92,11 @@ April 9, 2026:
 
 Week 3
 
-April 10, 2026
+April 10, 2026:
 - spent 2 hours more on that challenge and 63% done.
 
-April 11, 2026
+April 11, 2026:
 - spent 3 hours more on that challenge and 91% done.
+
+April 12, 2026:
+- spent 1 more hour on that challenge and 100% done.
