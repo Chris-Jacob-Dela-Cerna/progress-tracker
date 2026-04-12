@@ -22,7 +22,7 @@ March 29, 2026:
 
 March 30, 2026:
 - watched 100% of Lecture, Week 0 in CS50P.
-- watched 10/10 Shorts, Week 0 in CS50P.
+- watched 5/5 Shorts, Week 0 in CS50P.
 - made a replayable 2-constant calculator.
 - made a simple assignment time estimator.
 - made a simple tip calculator in VS Code.
