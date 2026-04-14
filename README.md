@@ -103,3 +103,11 @@ April 12, 2026:
 - watched 3/3 Shorts, Week 3 in CS50P.
 - made a better calculator program with lists and exceptions.
 - discovered try, except, SyntaxError, ValueError, NameError, else, pass, breakpoints
+
+April 13, 2026:
+- worked on a master challenge combining all Week 0-3 concepts. Spent 3 hours on that challenge and 35% done.
+- made a simple fruit guesser with error raise for wrong values.
+- discovered EOFError, list()
+
+April 14, 2026:
+- worked on a master challenge combining all Week 0-3 concepts. Spent 1 and 1/2 hour more on that challenge and 55% done.
