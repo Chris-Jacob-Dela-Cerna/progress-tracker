@@ -30,7 +30,7 @@ March 30, 2026:
 
 March 31, 2026:
 - worked and finished a master challenge combining all Week 0 concepts. Spent 3 hours on that challenge and 100% done.
-- Finished Week 0
+- finished Week 0
 - made a simple structured calculator.
 - made a simple text inside voice converter.
 - made a simple word counter using len().
@@ -98,7 +98,7 @@ April 11, 2026:
 
 April 12, 2026:
 - worked and finished a master challenge combining all Week 0-2 concepts. Spent 1 hour more on that challenge and 100% done.
-- finished Week 3
+- finished Week 2
 - watched 100% of Lecture, Week 3 in CS50P.
 - watched 3/3 Shorts, Week 3 in CS50P.
 - made a better calculator program with lists and exceptions.
@@ -111,3 +111,8 @@ April 13, 2026:
 
 April 14, 2026:
 - worked on a master challenge combining all Week 0-3 concepts. Spent 1 and 1/2 hour more on that challenge and 55% done.
+
+April 15, 2026:
+- worked and finished a master challenge combining all Week 0-3 concepts. Spent 4 hours more on that challenge and 100% done.
+- finished Week 3
+- improved my project-list program with nested lists and more pythonic loops.
