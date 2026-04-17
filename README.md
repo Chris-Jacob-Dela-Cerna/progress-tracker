@@ -1,6 +1,6 @@
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 3
+**Current:** Week 4
 
 Week 1
 
@@ -115,4 +115,17 @@ April 14, 2026:
 April 15, 2026:
 - worked and finished a master challenge combining all Week 0-3 concepts. Spent 4 hours more on that challenge and 100% done.
 - finished Week 3
-- improved my project-list program with nested lists and more pythonic loops.
+- improved my project-list program with nested lists and more pythonic loops. 
+
+April 16, 2026:
+- improved my master challenge from week 3 with shorter code.
+- watched 25% of Lecture, Week 4 in CS50P.
+- made a randomized number or fruit guesser
+- discovered import, random, random.choice(), from, random.randint(), random.shuffle(), statistics, statistics.mean()
+
+Week 4
+
+April 17, 2026:
+- watched 65% of Lecture, Week 4 in CS50P.
+- made a simple red or blue guesser with sys.argv
+- discovered sys, sys.argv[], IndexError, sys.exit(), packages, PyPI, pip, cowsay
