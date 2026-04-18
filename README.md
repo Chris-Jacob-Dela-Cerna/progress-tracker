@@ -129,3 +129,10 @@ April 17, 2026:
 - watched 65% of Lecture, Week 4 in CS50P.
 - made a simple red or blue guesser with sys.argv
 - discovered sys, sys.argv[], IndexError, sys.exit(), packages, PyPI, pip, cowsay
+
+April 18, 2026:
+- watched 100% of Lecture, Week 4 in CS50P.
+- watched 1/4 Shorts, Week 4 in CS50P.
+- tried to use iTunes API to get a list of songs from an artist
+- making a program that utilizes a Dragon Ball API
+- discovered APIs, requests, .JSON, json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
