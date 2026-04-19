@@ -135,4 +135,7 @@ April 18, 2026:
 - watched 1/4 Shorts, Week 4 in CS50P.
 - tried to use iTunes API to get a list of songs from an artist
 - making a program that utilizes a Dragon Ball API
-- discovered APIs, requests, .JSON, json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
+- discovered APIs, requests, .json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
+
+April 19, 2026:
+- discovered __init__.py, random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
