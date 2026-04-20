@@ -29,8 +29,8 @@ March 30, 2026:
 - discovered float(), def, \n, round(), return.
 
 March 31, 2026:
-- wrote a draft for my upcoming master challenge combining all Week 0 concepts.
-- worked and finished a master challenge combining all Week 0 concepts. Spent 3 hours on that challenge and 100% done.
+- wrote a draft for my upcoming master challenge combining most of Week 0 concepts.
+- worked and finished a master challenge combining most of Week 0 concepts. Spent 3 hours on that challenge and 100% done.
 - finished Week 0
 - made a simple structured calculator.
 - made a simple text inside voice converter.
@@ -54,12 +54,12 @@ April 2, 2026:
 Week 2
 
 April 3, 2026:
-- wrote a draft for my upcoming master challenge combining all Week 4 concepts.
-- worked on a master challenge combining all Week 1 concepts. Spent 8 hours on that challenge and 80% done.
+- wrote a draft for my upcoming master challenge combining most of Week 1 concepts.
+- worked on a master challenge combining most of Week 1 concepts. Spent 8 hours on that challenge and 80% done.
 - discovered .startswith(), .endwith(), .split(), .replace()
 
 April 4, 2026:
-- worked and finished a master challenge combining all Week 0-1 concepts. Spent 2 hours more on that challenge and 100% done. 
+- worked and finished a master challenge combining most of Week 1 concepts. Spent 2 hours more on that challenge and 100% done. 
 - finished Week 1
 - watched 40% of Lecture, Week 2 in CS50P.
 - discovered while, continue, break, for, range()
@@ -87,20 +87,20 @@ April 8, 2026:
 .extend(), .insert(), .clear, .join(), str slicing
 
 April 9, 2026:
-- wrote a draft for my upcoming master challenge combining all Week 2 concepts.
-- worked on a master challenge combining all Week 2 concepts. Spent 4 hours on that challenge and 45% done.
+- wrote a draft for my upcoming master challenge combining most of Week 2 concepts.
+- worked on a master challenge combining most of Week 2 concepts. Spent 4 hours on that challenge and 45% done.
 - discovered .isalpha, .isdigit, .isalnum
 
 Week 3
 
 April 10, 2026:
-- worked on a master challenge combining all Week 2 concepts. Spent 2 hours more on that challenge and 63% done.
+- worked on a master challenge combining most of Week 2 concepts. Spent 2 hours more on that challenge and 63% done.
 
 April 11, 2026:
-- worked on a master challenge combining all Week 2 concepts. Spent 3 hours more on that challenge and 91% done.
+- worked on a master challenge combining most of Week 2 concepts. Spent 3 hours more on that challenge and 91% done.
 
 April 12, 2026:
-- worked and finished a master challenge combining all Week 2 concepts. Spent 1 hour more on that challenge and 100% done.
+- worked and finished a master challenge combining most of Week 2 concepts. Spent 1 hour more on that challenge and 100% done.
 - finished Week 2
 - watched 100% of Lecture, Week 3 in CS50P.
 - watched 3/3 Shorts, Week 3 in CS50P.
@@ -108,16 +108,16 @@ April 12, 2026:
 - discovered try, except, SyntaxError, ValueError, NameError, else, pass, breakpoints
 
 April 13, 2026:
-- wrote a draft for my upcoming master challenge combining all Week 3 concepts.
-- worked on a master challenge combining all Week 3 concepts. Spent 3 hours on that challenge and 35% done.
+- wrote a draft for my upcoming master challenge combining most of Week 3 concepts.
+- worked on a master challenge combining most of Week 3 concepts. Spent 3 hours on that challenge and 35% done.
 - made a simple fruit guesser with error raise for wrong values.
 - discovered EOFError, list()
 
 April 14, 2026:
-- worked on a master challenge combining all Week 3 concepts. Spent 1 and 1/2 hour more on that challenge and 55% done.
+- worked on a master challenge combining most of Week 3 concepts. Spent 1 and 1/2 hour more on that challenge and 55% done.
 
 April 15, 2026:
-- worked and finished a master challenge combining all Week 3 concepts. Spent 4 hours more on that challenge and 100% done.
+- worked and finished a master challenge combining most of Week 3 concepts. Spent 4 hours more on that challenge and 100% done.
 - finished Week 3
 - improved my project-list program with nested lists and more pythonic loops. 
 
@@ -142,6 +142,10 @@ April 18, 2026:
 - discovered APIs, requests, .json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
 
 April 19, 2026:
-- wrote a draft for my upcoming master challenge combining all Week 4 concepts.
+- wrote a draft for my upcoming master challenge combining most of Week 4 concepts.
 - cleaned up a few of my older files using pylint.
 - discovered __init__.py, random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
+
+April 20, 2026:
+- worked on a master challenge combining most of Week 4 concepts. Spent 2 hours on that challenge and 10% done.
+- discovered requests.RequestsException
