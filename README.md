@@ -149,3 +149,7 @@ April 19, 2026:
 April 20, 2026:
 - worked on a master challenge combining most of Week 4 concepts. Spent 2 hours on that challenge and 10% done.
 - discovered requests.RequestsException
+
+April 21, 2026:
+- worked on a master challenge combining most of Week 4 concepts. Spent 2 hours more on that challenge and 25% done.
+- pyfiglet.FigletFont.getFonts(), pyfiglet.figlet_format()
