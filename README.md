@@ -8,7 +8,7 @@ March 27, 2026:
 - watched 50% of Lecture, Week 0 in CS50P.
 - made a simple convervation, my first python using VS Code.
 - made a trial conversation.
-- discovred print(), input(), #, .strip, .capitalize, .title, " , ", +, f-string, { }, \, sep=, end=.
+- discovered print(), input(), #, .strip, .capitalize, .title, " , ", +, f-string, { }, \, sep=, end=.
 
 March 28, 2026:
 - none
@@ -142,14 +142,19 @@ April 18, 2026:
 - discovered APIs, requests, .json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
 
 April 19, 2026:
+- wat hed 4/4 Short, Week 4 in CS50P.
 - wrote a draft for my upcoming master challenge combining most of Week 4 concepts.
 - cleaned up a few of my older files using pylint.
 - discovered __init__.py, random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
 
 April 20, 2026:
-- worked on a master challenge combining most of Week 4 concepts. Spent 2 hours on that challenge and 10% done.
+- worked on a master challenge combining most of Week 4 concepts. Spent 2 hours on that challenge and 15% done.
 - discovered requests.RequestsException
 
 April 21, 2026:
-- worked on a master challenge combining most of Week 4 concepts. Spent 2 hours more on that challenge and 25% done.
-- pyfiglet.FigletFont.getFonts(), pyfiglet.figlet_format()
+- worked on a master challenge combining most of Week 4 concepts. Spent 2 hours more on that challenge and 30% done.
+- discovered pyfiglet, pyfiglet.FigletFont.getFonts(), pyfiglet.figlet_format()
+
+April 22, 2026:
+- worked on a master challenge combining most of Week 4 concepts. Spent 4 and 1/2 hours more on that challenge and 75% done.
+- discovered emoji, emoji.emojize(), inflect, inflect.engine()
