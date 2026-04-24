@@ -162,3 +162,8 @@ April 22, 2026:
 April 23, 2026:
 - worked and finished a master challenge combining most of Week 4 concepts. Spent 4 hours more on that challenge and 100% done.
 - finished Week 4
+
+April 24, 2026:
+- watched 100% of Lecture, Week 5 in CS50P.
+- created a folder with 2 subfolders, 1 for a simple calculator with defined functions and one for testing.
+- discovered assert, AssertionError, pytest, with pytest.raises(), __init__.py, packages
