@@ -145,7 +145,7 @@ April 19, 2026:
 - wat hed 4/4 Short, Week 4 in CS50P.
 - wrote a draft for my upcoming master challenge combining most of Week 4 concepts.
 - cleaned up a few of my older files using pylint.
-- discovered __init__.py, random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
+- discovered random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
 
 April 20, 2026:
 - worked on a master challenge combining most of Week 4 concepts. Spent 2 hours on that challenge and 15% done.
@@ -163,7 +163,22 @@ April 23, 2026:
 - worked and finished a master challenge combining most of Week 4 concepts. Spent 4 hours more on that challenge and 100% done.
 - finished Week 4
 
+Week 5
+
 April 24, 2026:
 - watched 100% of Lecture, Week 5 in CS50P.
-- created a folder with 2 subfolders, 1 for a simple calculator with defined functions and one for testing.
+- made a folder with 2 subfolders, 1 for a simple calculator with defined functions and one for testing.
 - discovered assert, AssertionError, pytest, with pytest.raises(), __init__.py, packages
+
+April 25, 2026
+- watched 1/1 Shorts, Week 5 in CS50P.
+- renamed and organized all my files in better folders.
+- wrote a draft for my upcoming master challenge combining most of Week 5 concepts.
+- worked on a master challenge combining most of Week 4 concepts. Spent 1 hour on that challenge and 10% done.
+- discovered pytest.approx(), abs=
+
+April 26, 2026:
+- worked on a master challenge combining most of Week 4 concepts. Spent 4 more hours on that challenge and 60% done.
+
+April 27, 2026:
+- worked and finished a master challenge combining most of Week 4 concepts. Spent 2 more hours on that challenge and 100% done.
