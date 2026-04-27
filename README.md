@@ -1,6 +1,6 @@
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 4
+**Current:** Week 5
 
 Week 1
 
@@ -178,7 +178,8 @@ April 25, 2026
 - discovered pytest.approx(), abs=
 
 April 26, 2026:
-- worked on a master challenge combining most of Week 4 concepts. Spent 4 more hours on that challenge and 60% done.
+- worked on a master challenge combining most of Week 5 concepts. Spent 4 more hours on that challenge and 60% done.
 
 April 27, 2026:
-- worked and finished a master challenge combining most of Week 4 concepts. Spent 2 more hours on that challenge and 100% done.
+- worked and finished a master challenge combining most of Week 5 concepts. Spent 2 more hours on that challenge and 100% done.
+- finished Week 5
