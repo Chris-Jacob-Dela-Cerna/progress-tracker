@@ -142,7 +142,7 @@ April 18, 2026:
 - discovered APIs, requests, .json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
 
 April 19, 2026:
-- wat hed 4/4 Short, Week 4 in CS50P.
+- watched 4/4 Short, Week 4 in CS50P.
 - wrote a draft for my upcoming master challenge combining most of Week 4 concepts.
 - cleaned up a few of my older files using pylint.
 - discovered random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
@@ -183,3 +183,8 @@ April 26, 2026:
 April 27, 2026:
 - worked and finished a master challenge combining most of Week 5 concepts. Spent 2 more hours on that challenge and 100% done.
 - finished Week 5
+
+April 28, 2026:
+- watched 15% of Lecture, Week 6 in CS50P.
+- made a simple demographic storer that asks user for input then stores into a txt file.
+- discovered sorted(), open(), "w", .write(), .close(), "a", with, as, "r"
