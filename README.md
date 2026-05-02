@@ -187,4 +187,20 @@ April 27, 2026:
 April 28, 2026:
 - watched 15% of Lecture, Week 6 in CS50P.
 - made a simple demographic storer that asks user for input then stores into a txt file.
-- discovered sorted(), open(), "w", .write(), .close(), "a", with, as, "r"
+- discovered sorted(), open(), "w", .write(), .close(), "a", with, as
+
+April 29, 2026:
+- watched 50% of Lecture, Week 6 in CS50P.
+- working on a multiple choice or identification quiz maker/runner with csv for 1 hour and 10% done.
+- discovered "r", .readlines(), .lstrip(), .rstrip(), .csv
+
+April 30, 2026:
+- watched 100% of Lecture, Week 6 in CS50P.
+- still working on a multiple choice or identification quiz maker/runner with csv for 4 hours more and 30% done.
+- discovered key=, lambda, csv, csv.reader(), csv.DictReader(), csv.writer(), .writerow(), csv.DictWriter(), fieldnames=[], PIL, Image, Image.open(), .save, save_all=, append_images=, duration=, loop=, .writeheader()
+
+Week 6
+
+May 1, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 8 hours more and 60% done.
+- discovered FileNotFoundError, zip(), list comprehensions
