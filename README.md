@@ -191,16 +191,29 @@ April 28, 2026:
 
 April 29, 2026:
 - watched 50% of Lecture, Week 6 in CS50P.
-- working on a multiple choice or identification quiz maker/runner with csv for 1 hour and 10% done.
+- working on a multiple choice or identification quiz maker/runner with csv for 1 hour and 5% done.
 - discovered "r", .readlines(), .lstrip(), .rstrip(), .csv
 
 April 30, 2026:
 - watched 100% of Lecture, Week 6 in CS50P.
-- still working on a multiple choice or identification quiz maker/runner with csv for 4 hours more and 30% done.
+- still working on a multiple choice or identification quiz maker/runner with csv for 4 hours more and 20% done.
 - discovered key=, lambda, csv, csv.reader(), csv.DictReader(), csv.writer(), .writerow(), csv.DictWriter(), fieldnames=[], PIL, Image, Image.open(), .save, save_all=, append_images=, duration=, loop=, .writeheader()
 
 Week 6
 
 May 1, 2026:
-- still working on a multiple choice or identification quiz maker/runner with csv for 8 hours more and 60% done.
-- discovered FileNotFoundError, zip(), list comprehensions
+- still working on a multiple choice or identification quiz maker/runner with csv for 8 hours more and 40% done.
+- discovered .writerows(), FileNotFoundError, zip(), list comprehensions
+
+May 2, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 30 minutes more and 45% done.
+
+May 3, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 2 hours more and 55% done.
+- discovered os, os.makedirs, os.path.join(), os.getcwd(), os.remove(), os.listdir(), os.path.exists(), os.path.abspath(__file__), os.path.dirname()
+
+May 4, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 3 hours more and 65% done.
+
+May 5, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 2 hours more and 70% done.
