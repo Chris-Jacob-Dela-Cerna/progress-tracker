@@ -1,6 +1,6 @@
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 5
+**Current:** Week 7
 
 Week 1
 
@@ -49,7 +49,7 @@ April 2, 2026:
 - made a simple color sorter using match.
 - made a game recommender.
 - created a github account and started to use commits.
-- discovered match, case, not, or, and
+- discovered match, case, not, or, and, git init, git add, git commit, git push
 
 Week 2
 
@@ -217,3 +217,16 @@ May 4, 2026:
 
 May 5, 2026:
 - still working on a multiple choice or identification quiz maker/runner with csv for 2 hours more and 70% done.
+
+May 6, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 1 hour more and 75% done.
+
+May 7, 2026:
+- still working on a multiple choice or identification quiz maker/runner with csv for 2 hours more and 85% done.
+- discovered bool(), .gitignore, git remote -v
+
+Week 7
+
+May 8, 2026:
+- finished a multiple choice or identification quiz maker/runner with csv for 3 hours more and 100% done.
+- made a README.md for that project. Took 26+ hours across 10 days for my first project.
