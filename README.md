@@ -142,7 +142,7 @@ April 18, 2026:
 - discovered APIs, requests, .json, json.dumps(), indent=, __name__, __main__, .HTTPError, .raise_for_status()
 
 April 19, 2026:
-- watched 4/4 Short, Week 4 in CS50P.
+- watched 4/4 Shorts, Week 4 in CS50P.
 - wrote a draft for my upcoming master challenge combining most of Week 4 concepts.
 - cleaned up a few of my older files using pylint.
 - discovered random.choices(), k=n, random.sample(), weights=[n, n], random.seed(), pylint, black
@@ -230,3 +230,10 @@ Week 7
 May 8, 2026:
 - finished a multiple choice or identification quiz maker/runner with csv for 3 hours more and 100% done.
 - made a README.md for that project. Took 26+ hours across 10 days for my first project.
+- watched 1/3 Shorts, Week 6 in CS50P.
+- discovered Global, .size, .format, . rotate(), image.filter()
+
+May 9, 2026:
+- watched 3/3 Shorts, Week 6 in CS50P.
+- worked on a program with a purpose of understanding i/o deeper.
+- discovered reader.fieldnames, .writelines()
