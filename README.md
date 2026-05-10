@@ -235,5 +235,10 @@ May 8, 2026:
 
 May 9, 2026:
 - watched 3/3 Shorts, Week 6 in CS50P.
-- worked on a program with a purpose of understanding i/o deeper.
+- worked on a scratch program with a purpose of understanding i/o deeper.
 - discovered reader.fieldnames, .writelines()
+
+May 10, 2026:
+- wrote a draft for my upcoming master challenge combining most of Week 6 concepts.
+- update my project_list.py program.
+- discovered enumerate().
