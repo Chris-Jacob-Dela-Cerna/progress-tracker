@@ -242,3 +242,23 @@ May 10, 2026:
 - wrote a draft for my upcoming master challenge combining most of Week 6 concepts.
 - update my project_list.py program.
 - discovered enumerate().
+
+May 11, 2026:
+- worked on a master challenge combining most of Week 6 concepts. Spent 3 hours on that challenge and 20% done.
+- discovered dispatcher
+
+May 12, 2026:
+- worked on a master challenge combining most of Week 6 concepts. Spent 1 hour more on that challenge and 35% done.
+
+May 13, 2026:
+- worked on a master challenge combining most of Week 6 concepts. Spent 1 hour more on that challenge and 50% done.
+
+May 14, 2026:
+- worked on a master challenge combining most of Week 6 concepts. Spent 4 hours more on that challenge and 80% done. 
+
+Week 8
+
+May 15, 2026
+- worked and finished a master challenge combining most of Week 6 concepts. Spent 2 hours more on that challenge and 100% done. 
+- finished Week 6
+- discovered .size, ImageOps, .fit(), .paste()
