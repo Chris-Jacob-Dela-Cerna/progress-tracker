@@ -262,3 +262,7 @@ May 15, 2026
 - worked and finished a master challenge combining most of Week 6 concepts. Spent 2 hours more on that challenge and 100% done. 
 - finished Week 6
 - discovered .size, ImageOps, .fit(), .paste()
+
+May 16, 2026:
+- watched 50% of Lecture, Week 7 in CS50P.
+- discovered re, re.search(), (. + * ? {m} {m, n}), r str, (^, $), [], [^], \w, \W, \d, \D, \s, \S, (|), re.IGNORECASE, re.MULTILINE, re.DOTALL
