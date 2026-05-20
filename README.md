@@ -1,6 +1,6 @@
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 7
+**Current:** Week 8
 
 Week 1
 
@@ -266,3 +266,18 @@ May 15, 2026
 May 16, 2026:
 - watched 50% of Lecture, Week 7 in CS50P.
 - discovered re, re.search(), (. + * ? {m} {m, n}), r str, (^, $), [], [^], \w, \W, \d, \D, \s, \S, (|), re.IGNORECASE, re.MULTILINE, re.DOTALL
+
+May 17, 2026:
+- watched 100% of Lecture, Week 7 in CS50P.
+- (), |, re.match, re.fullmatch, .group(), .groups(), :=, (?:), .removeprefix(), re.sub(), re.split(), re.findall()
+
+May 18, 2026:
+- watched 2/2 Shorts, Week 7 in CS50P.
+- discovered (?P<variable_name>).
+
+May 19, 2026:
+- refactored my Week 0 master challenge.
+- wrote a draft for my upcoming master challenge combining most of Week 7 concepts.
+
+May 20, 2026:
+- worked on a master challenge combining most of Week 7 concepts. Spent 1 hour on that challenge and 15% done.
