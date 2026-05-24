@@ -1,6 +1,6 @@
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 8
+**Current:** Week 9
 
 Week 1
 
@@ -281,3 +281,17 @@ May 19, 2026:
 
 May 20, 2026:
 - worked on a master challenge combining most of Week 7 concepts. Spent 1 hour on that challenge and 15% done.
+
+May 21, 2026:
+- worked on a master challenge combining most of Week 7 concepts. Spent 1 hour more on that challenge and 25% done.
+
+Week 9
+
+May 22, 2026:
+- worked on a master challenge combining most of Week 7 concepts. Spent 1 hour more on that challenge and 40% done.
+
+May 23, 2026:
+- worked on a master challenge combining most of Week 7 concepts. Spent 1 hour more on that challenge and 60% done.
+
+May 24, 2026:
+- worked on a master challenge combining most of Week 7 concepts. Spent 1 hour more on that challenge and 80% done.
