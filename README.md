@@ -295,3 +295,14 @@ May 23, 2026:
 
 May 24, 2026:
 - worked on a master challenge combining most of Week 7 concepts. Spent 1 hour more on that challenge and 80% done.
+
+May 25, 2026:
+- worked on a master challenge combining most of Week 7 concepts. Spent 1 hour and 30 minutes more on that challenge and 100% done.
+- watched 40% of Lecture, Week 8 in CS50P.
+- discovered validators, class, __str__, @property, @setter
+
+May 26, 2026:
+- making a program utilizing classes and ReGex to validate email, username and password.
+
+May 27, 2026:
+- made a program utilizing classes and ReGex to validate email, username and password.
