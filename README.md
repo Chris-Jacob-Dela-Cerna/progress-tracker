@@ -1,6 +1,6 @@
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 9
+**Current:** Week 11
 
 Week 1
 
@@ -306,3 +306,46 @@ May 26, 2026:
 
 May 27, 2026:
 - made a program utilizing classes and ReGex to validate email, username and password.
+
+May 28, 2026:
+- watched 60% of Lecture, Week 9 in CS50P.
+- discovered class variables, @classmethod
+
+Week 10
+
+May 29, 2026:
+- watched 80% of Lecture, Week 9 in CS50P.
+- discovered __init__, instance variables, instance methods, @staticmethod
+
+May 30, 2026:
+- making a battle text-based game using class for unit types and traits.
+
+May 31, 2026:
+- making a battle text-based game using class for unit types and traits.
+- discovered parent class, super(), __class__, min(), **
+
+June 1, 2026:
+- making a battle text-based game using class for unit types and traits.
+- halted the Battlopia game to continue Lecture, and revision that into my Final Project. 
+
+June 2, 2026:
+- watched 100% of Lecture, Week 8 in CS50P.
+- watched 4/4 Shorts, Week 8 in CS50P.
+- discovered __add__(self, other), operator overloading
+
+June 3, 2026:
+- wrote a draft for my upcoming master challenge combining most of Week 8 concepts.
+- worked on a master challenge combining most of Week 8 concepts. Spent 3 hours on that challenge and 40% done.
+- discovered isinstance()
+
+June 4, 2026:
+- worked on a master challenge combining most of Week 8 concepts. Spent 2 hours more on that challenge and 80% done.
+
+Week 11
+
+June 5, 2026:
+- worked on a master challenge combining most of Week 8 concepts. Spent 1 hour more on that challenge and 100% done.
+
+June 6, 2026:
+- watched 40% of Lecture, Week 9 in CS50P.
+- discovered set(), .add, type hints, mypy, argparse, .ArgumentParser(), .add_argument("", type=, nargs=, help=, default=), .parse_args()
