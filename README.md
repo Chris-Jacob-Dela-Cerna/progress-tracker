@@ -1,3 +1,5 @@
+"Daily learning log maintained as a structured journal. Each commit represents a study session — what I worked on, what I built, what I learned. Started March 27, 2026."
+
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
 **Current:** Week 11
