@@ -351,3 +351,63 @@ June 5, 2026:
 June 6, 2026:
 - watched 40% of Lecture, Week 9 in CS50P.
 - discovered set(), .add, type hints, mypy, argparse, .ArgumentParser(), .add_argument("", type=, nargs=, help=, default=), .parse_args()
+
+June 7, 2026:
+- watched 100% of Lecture, Week 9 in CS50P.
+- wrote a draft for my upcoming Final Master Challenge for CS50P.
+- started and working on the Final Master Challenge for CS50P. Spent 2 hours on that challenge.
+- discovered description=, unpacking with * or **, map(),  filter(), dictionary compressions, generator, yield, .copy, recursion
+
+June 8, 2026:
+- working on the Final Master Challenge for CS50P. Spent 6 hours more on that challenge.
+
+June 9, 2026:
+- working on the Final Master Challenge for CS50P. Spent 5 hours more on that challenge.
+
+June 10, 2026:
+- working on the Final Master Challenge for CS50P. Spent 5 hours on that challenge.
+
+June 11, 2026:
+- working on the Final Master Challenge for CS50P. Spent 3 hours more on that challenge.
+
+June 12, 2026:
+- working on the Final Master Challenge for CS50P. Spent 4 hours more on that challenge.
+
+June 13, 2026:
+- working on the Final Master Challenge for CS50P. Spent 3 hours more on that challenge.
+
+June 14, 2026:
+- working on the Final Master Challenge for CS50P. Spent 6 hours more on that challenge.
+- discovered millify
+
+June 15, 2026:
+- working on the Final Master Challenge for CS50P. Spent 5 hours on that challenge.
+
+June 16, 2026:
+- working on the Final Master Challenge for CS50P. Spent 4 hours more on that challenge.
+
+June 17, 2026:
+- working on the Final Master Challenge for CS50P. Spent 2 hours more on that challenge.
+
+June 18, 2026:
+- working on the Final Master Challenge for CS50P. Spent 2 hours more on that challenge.
+
+June 19, 2026:
+- working on the Final Master Challenge for CS50P. Spent 5 hours more on that challenge.
+
+June 20, 2026:
+- working on the Final Master Challenge for CS50P. Spent 4 hours more on that challenge.
+- discovered all()
+
+June 21, 2026:
+- working on the Final Master Challenge for CS50P. Spent 5 hours more on that challenge.
+- discovered shutil
+
+June 22, 2026:
+- worked and finished the Final Master Challenge for CS50P. Spent 3 hours more on that challenge.
+
+June 23, 2026:
+- added a requirements.txt for Bugtopia.
+- added a README.md, and released Bugtopia v1.0.0
+- started The Odin Project - Foundations.
+- read and finsihed 100% of the Introduction.
