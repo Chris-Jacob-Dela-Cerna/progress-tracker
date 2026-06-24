@@ -1,8 +1,8 @@
-"Daily learning log maintained as a structured journal. Each commit represents a study session — what I worked on, what I built, what I learned. Started March 27, 2026."
+Daily learning log maintained as a structured journal. Each commit represents a study session — what I worked on, what I built, what I learned. Started March 27, 2026.
 
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 11
+**Current:** Week 13
 
 Week 1
 
@@ -370,6 +370,8 @@ June 10, 2026:
 June 11, 2026:
 - working on the Final Master Challenge for CS50P. Spent 3 hours more on that challenge.
 
+Week 12
+
 June 12, 2026:
 - working on the Final Master Challenge for CS50P. Spent 4 hours more on that challenge.
 
@@ -392,6 +394,8 @@ June 17, 2026:
 June 18, 2026:
 - working on the Final Master Challenge for CS50P. Spent 2 hours more on that challenge.
 
+Week 13
+
 June 19, 2026:
 - working on the Final Master Challenge for CS50P. Spent 5 hours more on that challenge.
 
@@ -411,3 +415,6 @@ June 23, 2026:
 - added a README.md, and released Bugtopia v1.0.0
 - started The Odin Project - Foundations.
 - read and finsihed 100% of the Introduction.
+
+June 24, 2026:
+- read and finsihed 20% of the Prerequisites.
