@@ -418,3 +418,6 @@ June 23, 2026:
 
 June 24, 2026:
 - read and finsihed 20% of the Prerequisites.
+
+June 25, 2026:
+- read and finsihed 40% of the Prerequisites.
