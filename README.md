@@ -414,10 +414,14 @@ June 23, 2026:
 - added a requirements.txt for Bugtopia.
 - added a README.md, and released Bugtopia v1.0.0
 - started The Odin Project - Foundations.
-- read and finsihed 100% of the Introduction.
+- read and finished 100% of the Introduction.
 
 June 24, 2026:
-- read and finsihed 20% of the Prerequisites.
+- read and finished 20% of the Prerequisites.
 
 June 25, 2026:
-- read and finsihed 40% of the Prerequisites.
+- read and finished 40% of the Prerequisites.
+
+June 26, 2026:
+- read and finished 60% of the Prerequisites.
+- fresh installed Ubuntu.
