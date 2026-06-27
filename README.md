@@ -424,4 +424,7 @@ June 25, 2026:
 
 June 26, 2026:
 - read and finished 60% of the Prerequisites.
-- fresh installed Ubuntu.
+- figuring out how to install Linux Ubuntu.
+
+June 27, 2026:
+- did a fresh install of Ubuntu.
