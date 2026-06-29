@@ -414,21 +414,27 @@ June 23, 2026:
 - added a requirements.txt for Bugtopia.
 - added a README.md, and released Bugtopia v1.0.0
 - started The Odin Project - Foundations.
-- read and finished 100% of Introduction.
+- finished 100% of Introduction.
 
 June 24, 2026:
-- read and finished 20% of Prerequisites.
+- finished 20% of Prerequisites.
 
 June 25, 2026:
-- read and finished 40% of Prerequisites.
+- finished 40% of Prerequisites.
 
 June 26, 2026:
-- read and finished 60% of Prerequisites.
+- finished 60% of Prerequisites.
 - figuring out how to install Linux Ubuntu.
 
 June 27, 2026:
 - did a fresh install of Ubuntu.
 
 June 28, 2026:
-- read and finished 100% of Prerequisites.
-- read and finished 100% of Git Basics.
+- added a README.md for CS50P-Projects.
+- finished 100% of Prerequisites.
+- finished 100% of Git Basics.
+- finished 15% of HTML Foundations.
+
+June 29, 2026:
+- finished 80% of HTML Foundations.
+- discovered elements, tags, <>, </>, <p>, void elements, index.html, <!DOCTYPE html>, lang=, <head>, <meta>, <title>, <body, ><h1>-<h6>, <strong>, <em>, <!-- comment -->, <ul>, <li>, <ol>, <a>, href=, target=, _blank, _self, rel=, noopener, noreferrer, <img>, src=, alt=, height=, width=
