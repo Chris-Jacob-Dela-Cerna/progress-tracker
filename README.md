@@ -438,3 +438,9 @@ June 28, 2026:
 June 29, 2026:
 - finished 80% of HTML Foundations.
 - discovered elements, tags, <>, </>, <p>, void elements, index.html, <!DOCTYPE html>, lang=, <head>, <meta>, <title>, <body, ><h1>-<h6>, <strong>, <em>, <!-- comment -->, <ul>, <li>, <ol>, <a>, href=, target=, _blank, _self, rel=, noopener, noreferrer, <img>, src=, alt=, height=, width=
+
+June 30, 2026:
+- finished 100% of HTML Foundations.
+- worked and finished 'Project: Recipes' for 1 hour.
+- published it live using Github and added a README.md
+- discovered &, < == &lt, > == &gt, & == &amp
